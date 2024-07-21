@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Banking Software developmet company**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Test Automation and K8S**
 
 - 📫 How to reach me **gayaneet@gmail.com**
 
