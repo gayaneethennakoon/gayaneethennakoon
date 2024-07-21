@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayanee Thennakoon</h1>
-<h3 align="center">A Build and Release from Sri Lanka</h3>
+<h3 align="center">A Handling Build and Release team from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Banking Software**
+- 🔭 I’m currently working on **Banking Software developmet company**
 
 - 🌱 I’m currently learning **DevOps**
 
